@@ -1,0 +1,6 @@
+#! /usr/bin/bash
+
+
+echo "I am a bash script"
+echo "I'm in a submodule"
+
